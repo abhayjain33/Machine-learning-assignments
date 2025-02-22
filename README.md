@@ -14,6 +14,6 @@ Used algorithms are:
 - Logistic Regression
 - Decision Tree Classifier
 - Random Forest Classifier
-- K-Nearest Neigbhour
+- K-Nearest Neighbour
 
 Notebook also provides comprehensive Model comparison, Hyper-parameter tunnning.
